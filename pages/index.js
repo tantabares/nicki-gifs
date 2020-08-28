@@ -51,7 +51,7 @@ export default function Home() {
         </div>
 
         <Link href='/nicki'>
-          <a>I want to see a Nicki Gif</a>
+          <a>I want to see a Nicki Gif NOW!</a>
         </Link>
       </main>
 
